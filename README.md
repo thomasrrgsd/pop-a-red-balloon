@@ -1,6 +1,8 @@
 # Pop A Red Balloon
 Note: The official demonstation that was performed used commit: aeaefc499b47a17f44b13faf8e44ce02b4479059.
-Later commits are for organizing source files and adding comments.
+This commit can be found in the NCSU github repository, but is only accessible to NCSU accounts.
+Later commits are for organizing source files and adding comments, and the final commit in the NCSU repository
+is the first commit in this repository.
 
 ## ./main.py
 This file is where the code begins and an example of use is "python main.py --connect :14551".
